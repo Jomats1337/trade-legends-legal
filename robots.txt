@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jomats1337.github.io/trade-legends-legal/sitemap.xml
